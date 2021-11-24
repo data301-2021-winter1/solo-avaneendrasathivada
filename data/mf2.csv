@@ -1,0 +1,1399 @@
+,Date,Year,Industry_type,Amount,City__Location
+0,2020-09-01,2020,E-commerce,200000000,Bengaluru
+1,2020-01-13,2020,Transportation,8048394,Gurgaon
+2,2020-09-01,2020,E-commerce,18358860,Bengaluru
+3,2020-02-01,2020,Finance,3000000,New Delhi
+4,2020-02-01,2020,Fashion and Apparel,1800000,Mumbai
+5,2020-01-13,2020,Logistics,9000000,Chennai
+6,2020-10-01,2020,Health and wellness,150000000,Gurgaon
+7,2019-12-12,2019,Technology,6000000,Pune
+8,2019-06-12,2019,E-commerce,70000000,Gurgaon
+9,2019-03-12,2019,Aerospace,50000000,Bengaluru
+10,2019-12-13,2019,Technology,20000000,Gurgaon
+11,2019-12-17,2019,B2B,12000000,Bengaluru
+12,2019-12-16,2019,E-commerce,30000000,Bengaluru
+14,2019-12-14,2019,Technology,2000000,Bengaluru
+15,2019-11-12,2019,Gaming,50000000,Noida
+16,2019-12-20,2019,E-commerce,231000000,Faridabad
+17,2019-11-13,2019,Technology,150000000,San Francisco
+18,2019-11-14,2019,Health and wellness,486000,Gurgaon
+19,2019-11-13,2019,Education,1500000,Gurgaon
+21,2019-11-18,2019,Health and wellness,12000000,Gurgaon
+22,2019-11-15,2019,B2B,26000000,Bengaluru
+23,2019-11-20,2019,Finance,17411265,Gurgaon
+24,2019-12-11,2019,Technology,1300000,Pune
+25,2019-11-20,2019,Others,135000000,"San Jose,"
+26,2019-11-11,2019,Transportation,300000,Amritsar
+27,2019-11-19,2019,E-commerce,220000000,Delhi
+28,2019-11-18,2019,Health and wellness,15800000,Mumbai
+29,2019-11-15,2019,Transportation,283000000,Kormangala
+31,2019-11-25,2019,Finance,1000000000,Noida
+32,2019-04-10,2019,Customer Service,45000000,Bengaluru
+33,2019-02-10,2019,B2B,585000000,Bengaluru
+35,2019-05-09,2019,Finance,4500000,Pune
+36,2019-04-09,2019,Finance,3300000,Mumbai
+37,2019-04-09,2019,E-commerce,6000000,Mumbai
+38,2019-04-09,2019,Others,5000000,Hyderabad
+39,2019-04-09,2019,Investment,18000000,Burnsville
+40,2019-04-09,2019,Information Technology,1000000,Bengaluru
+41,2019-04-09,2019,Consumer Internet,10000000,Mumbai
+42,2019-04-09,2019,Health and wellness,450000000,Menlo Park
+43,2019-03-09,2019,Accounting,5000000,Bengaluru
+44,2019-01-08,2019,E-commerce,20000000,Gurgaon
+45,2019-01-08,2019,Finance,5000000,New Delhi
+47,2019-01-08,2019,Finance,140000000,Mumbai
+48,2019-01-08,2019,Information Technology,38080000,Noida
+49,2019-12-08,2019,E-commerce,125000000,Bengaluru
+50,2019-08-13,2019,E-commerce,11000000,Gurugram
+51,2019-08-13,2019,Customer Service,51000000,Palo Alto
+52,2019-08-23,2019,Automobile,37000000,San Francisco
+53,2019-08-23,2019,Consumer Internet,500000,Bengaluru
+54,2019-08-23,2019,Finance,110000000,Santa Monica
+55,2019-08-22,2019,Finance,15000000,Gurgaon
+56,2019-08-21,2019,Food & Beverage,6590000,Bengaluru
+57,2019-08-23,2019,E-commerce,1000000,Noida
+59,2019-08-19,2019,E-commerce,70000000,Gurgaon
+60,2019-08-27,2019,Transportation,3900000000,Bengaluru
+61,2019-02-07,2019,Finance,19000000,Gurgaon
+62,2019-02-07,2019,Information Technology,2500000,Singapore
+63,2019-01-07,2019,Compliance,145000,New Delhi
+64,2019-03-07,2019,Transportation,1000000,Kormangala
+65,2019-01-07,2019,Technology,38080000,Taramani
+66,2019-04-07,2019,Food & Beverage,500000,New Delhi
+67,2019-10-07,2019,E-commerce,150000000,Bengaluru
+68,2019-11-07,2019,E-commerce,60000000,Singapore
+69,2019-10-07,2019,Technology,16000000,Singapore
+70,2019-10-07,2019,Technology,5750000,Andheri
+71,2019-10-07,2019,Health and wellness,2500000,Mumbai
+72,2019-09-07,2019,Others,1000000,Mumbai
+73,2019-08-07,2019,E-commerce,319605,Chembur
+74,2019-05-06,2019,E-commerce,51000000,Bengaluru
+75,2019-04-06,2019,Food & Beverage,10000000,New Delhi
+77,2019-03-06,2019,Finance,9000000,Bengaluru
+78,2019-04-06,2019,Finance,75000000,New Delhi
+79,2019-04-06,2019,Waste Management Service,26000000,Hyderabad
+80,2019-03-06,2019,E-commerce,2500000,Bengaluru
+82,2019-06-06,2019,Energy,26000000,New Delhi
+83,2019-06-06,2019,E-commerce,1510950000,Bengaluru
+84,2019-10-06,2019,E-commerce,430200,Bengaluru
+85,2019-10-06,2019,Finance,15500000,Haryana
+86,2019-06-06,2019,Finance,52000000,New York
+87,2019-08-06,2019,Transportation,3584000,Karnataka
+88,2019-04-06,2019,Customer Service,3400000,Bengaluru
+90,2019-06-05,2019,Waste Management Service,868600,Bengaluru
+92,2019-01-05,2019,Transportation,150000000,Bengaluru
+93,2019-02-05,2019,Transportation,50000000,Hyderabad
+94,2019-05-28,2019,Automobile,51000000,Bengaluru
+95,2019-05-28,2019,Agriculture,140000000,Mumbai
+96,2019-05-30,2019,E-commerce,11500000,Bengaluru
+97,2019-05-31,2019,Food & Beverage,5600000,New Delhi
+98,2019-04-16,2019,Finance,45000000,Bengaluru
+99,2019-12-04,2019,E-commerce,17000000,Bengaluru
+100,2019-10-04,2019,E-commerce,430665,Bhopal
+101,2019-04-13,2019,Social Network,3591375,New Delhi
+102,2019-12-04,2019,Health and wellness,200000,Gurugram
+103,2019-11-04,2019,Finance,3500000,Bengaluru
+104,2019-10-04,2019,E-commerce,6320820,Mumbai
+105,2019-10-04,2019,E-commerce,2443495,Mumbai
+106,2019-10-04,2019,E-commerce,307000,Bengaluru
+107,2019-11-04,2019,Others,26000000,Mumbai
+108,2019-04-19,2019,E-commerce,3000000,Bengaluru
+109,2019-04-19,2019,E-commerce,14342000,Bengaluru
+110,2019-04-17,2019,Transportation,5000000,Gurugram
+111,2019-04-17,2019,Technology,3000000,Bengaluru
+113,2019-08-02,2019,E-commerce,226000000,Singapore
+114,2019-02-13,2019,Technology,600000,New Delhi
+115,2018-02-14,2018,Health and wellness,100000000,Gurgaon
+116,2019-03-01,2019,Automobile,110000000,Jaipur
+117,2019-04-01,2019,Health and wellness,22000000,Bengaluru
+118,2019-04-01,2019,Finance,5000000,Chennai
+119,2018-04-12,2018,Social Network,700000,Delhi
+120,2018-01-12,2018,Customer Service,50000000,New Delhi
+121,2018-02-12,2018,Technology,800000,Mumbai
+122,2018-02-12,2018,Education,572000,Gurugram
+123,2018-04-12,2018,E-commerce,143000,Nagpur
+124,2018-06-12,2018,B2B,2000000,Indore
+125,2018-06-12,2018,E-commerce,3500000,Gurugram
+126,2018-01-11,2018,Food & Beverage,138995,Bengaluru
+127,2018-03-11,2018,Others,27799000,Chennai
+128,2018-06-11,2018,E-commerce,50000000,Bengaluru
+129,2018-08-11,2018,Gaming,500000,Bengaluru
+130,2018-08-11,2018,Food & Beverage,1000000,Jaipur
+131,2018-12-11,2018,Food & Beverage,1000000,Bengaluru
+132,2018-12-11,2018,Food & Beverage,1300000,New Delhi
+133,2018-11-13,2018,Transportation,1000000,Bengaluru
+134,2018-11-14,2018,Customer Service,500000,Bengaluru
+135,2018-11-19,2018,Automobile,300000000,California
+136,2018-11-20,2018,Health and wellness,6000000,Bengaluru
+137,2018-11-21,2018,Education,278000,Noida
+138,2018-11-22,2018,Investment,31000000,Mumbai
+140,2018-11-23,2018,Finance,3400000,Bengaluru
+141,2018-11-24,2018,Technology,29500000,Bengaluru
+142,2018-11-25,2018,Finance,42000000,India
+143,2018-11-25,2018,Social Network,1700000,Delhi
+145,2018-02-10,2018,Logistics,11000000,Hyderabad
+146,2018-04-10,2018,Food & Beverage,8200000,Mumbai
+147,2018-05-10,2018,Automobile,3000000,Gurgaon
+148,2018-11-10,2018,Real Estate,4000000,New Delhi
+149,2018-12-10,2018,Technology,14680000,Bengaluru
+150,2018-12-10,2018,Technology,12000000,Bengaluru
+151,2018-01-09,2018,Consumer Internet,35000000,Chennai
+152,2018-03-09,2018,B2B,225000000,Bengaluru
+153,2018-03-09,2018,Consumer Internet,6390000,Bengaluru
+156,2018-05-09,2018,Consumer Internet,157200000,Mumbai
+158,2018-06-09,2018,Consumer Internet,100000000,Mumbai
+159,2018-10-09,2018,Health and wellness,4000000,Gurugram
+160,2018-11-09,2018,Technology,32000000,Bengaluru
+161,2018-11-09,2018,Consumer Internet,5500000,Mumbai
+162,2018-11-09,2018,Finance,5000000,Mumbai
+163,2018-12-09,2018,Finance,30000000,Mumbai
+164,2018-01-08,2018,Food & Beverage,400000,Bengaluru
+166,2018-02-08,2018,Consumer Internet,7000000,Hyderabad
+167,2018-03-08,2018,Consumer Internet,120000,Gurugram
+169,2018-07-08,2018,Consumer Internet,35000000,Bengaluru
+170,2018-07-08,2018,Consumer Internet,10000000,Gurugram
+171,2018-08-08,2018,Consumer Internet,4000000,Bengaluru
+172,2018-08-08,2018,Consumer Internet,12200000,Bengaluru
+173,2018-08-08,2018,Consumer Internet,66000000,Bengaluru
+174,2018-09-08,2018,E-commerce,3000000,Bengaluru
+175,2018-09-08,2018,Finance,1000000,Bengaluru
+176,2018-08-13,2018,Consumer Internet,4000000,Chennai
+177,2018-08-13,2018,Technology,8000000,Bengaluru
+179,2018-08-17,2018,Consumer Internet,5850000,Gurugram
+181,2018-08-20,2018,Consumer Internet,4800000,Mumbai
+182,2018-08-22,2018,Technology,6000000,Bengaluru
+183,2018-08-22,2018,Consumer Internet,14270000,Gurugram
+184,2018-08-26,2018,Consumer Internet,13400000,Bengaluru
+185,2018-08-26,2018,Finance,4200000,Bengaluru
+186,2018-08-27,2018,Health and wellness,5000000,Delhi
+187,2018-08-28,2018,Information Technology,3000000,Bengaluru
+190,2018-02-07,2018,Consumer Internet,1000000,Gurugram
+191,2018-04-07,2018,Information Technology,4000000,Pune
+193,2018-06-07,2018,Consumer Internet,27700000,Gurugram
+194,2018-09-07,2018,Consumer Internet,440000,Bengaluru
+195,2018-09-07,2018,Consumer Internet,1100000,Bengaluru
+196,2018-10-07,2018,Consumer Internet,437000,Gurugram
+198,2018-10-07,2018,Finance,5000000,Bengaluru
+199,2018-10-07,2018,Consumer Internet,5000000,Mumbai
+200,2018-11-07,2018,Consumer Internet,2500000,Rourkela
+201,2018-12-07,2018,Information Technology,180000,Gurugram
+202,2018-12-07,2018,Health and wellness,500000,Bengaluru
+203,2018-07-13,2018,Health and wellness,175000,Jaipur
+204,2018-07-17,2018,Finance,29000000,Gurugram
+205,2018-07-17,2018,Consumer Internet,49700000,Gurugram
+206,2018-07-18,2018,Consumer Internet,1500000,Bengaluru
+207,2018-07-19,2018,Consumer Internet,100000000,Mumbai
+209,2018-07-21,2018,Consumer Internet,18000000,Mumbai
+211,2018-07-23,2018,Technology,280000,Gurugram
+212,2018-07-23,2018,Technology,436000,Bengaluru
+213,2018-07-24,2018,E-commerce,180000,Bengaluru
+214,2018-07-24,2018,Consumer Internet,45000000,Pune
+215,2018-07-25,2018,Finance,17000000,Mumbai
+216,2018-07-25,2018,Consumer Internet,1250000,Bengaluru
+217,2018-07-25,2018,Technology,2500000,Bengaluru
+218,2018-07-26,2018,Information Technology,1100000,Bengaluru
+220,2018-07-26,2018,Finance,500000,Hyderabad
+221,2018-07-30,2018,Consumer Internet,11000000,Gurugram
+222,2018-07-30,2018,Consumer Internet,120000000,Bengaluru
+223,2018-07-31,2018,Finance,100000000,Chennai
+224,2018-07-31,2018,Health and wellness,5000000,Hyderabad
+225,2018-01-06,2018,Finance,10000000,Gurugram
+226,2018-04-06,2018,Technology,125000,Bengaluru
+230,2018-07-06,2018,Finance,23000000,Bhubneswar
+231,2018-07-06,2018,Consumer Internet,11500000,Bengaluru
+232,2018-10-06,2018,Finance,21500000,Gurugram
+234,2018-12-06,2018,Finance,14800000,Mumbai
+235,2018-12-06,2018,E-commerce,10100000,Chennai
+236,2018-12-06,2018,Consumer Internet,3000000,Bengaluru
+237,2018-06-13,2018,Health and wellness,300000,Gurugram
+238,2018-06-13,2018,Finance,450000,Noida
+240,2018-06-14,2018,Consumer Internet,3450000,Bengaluru
+241,2018-06-14,2018,Technology,4800000,Mumbai
+242,2018-06-18,2018,Health and wellness,21000000,Chandigarh
+243,2018-06-18,2018,Information Technology,1700000,New Delhi
+245,2018-06-19,2018,Consumer Internet,1100000,Bengaluru
+246,2018-06-20,2018,Finance,15000000,Mumbai
+247,2018-06-22,2018,Consumer Internet,9100000,Bengaluru
+248,2018-06-25,2018,Consumer Internet,200000000,Gurugram
+249,2018-06-25,2018,Consumer Internet,4000000,Bengaluru
+250,2018-06-25,2018,Finance,1000000,Gurugram
+251,2018-06-26,2018,Technology,8950000,Noida
+252,2018-06-26,2018,Health and wellness,19000000,Bengaluru
+253,2018-06-27,2018,Technology,4500000,Mumbai
+254,2018-06-28,2018,Technology,1100000,Bengaluru
+255,2018-06-28,2018,E-commerce,2000000,Bengaluru
+257,2018-02-05,2018,Finance,450000,Chennai
+258,2018-02-05,2018,Consumer Internet,22000000,Mumbai
+259,2018-03-05,2018,Information Technology,2500000,Chennai
+261,2018-09-05,2018,Technology,1000000,Mumbai
+262,2018-11-05,2018,Consumer Internet,949000,Pune
+263,2018-05-14,2018,Consumer Internet,24000000,Mumbai
+264,2018-05-16,2018,Health and wellness,4200000,Bengaluru
+265,2018-05-21,2018,Technology,300000,Bengaluru
+266,2018-05-21,2018,Technology,7000000,Gurugram
+267,2018-05-22,2018,Finance,500000,Bengaluru
+268,2018-05-22,2018,Consumer Internet,735000,Bengaluru
+269,2018-05-23,2018,E-commerce,735000,Bengaluru
+270,2018-05-23,2018,Finance,2000000,Kolkata
+271,2018-05-24,2018,E-commerce,2000000,Delhi
+272,2018-05-24,2018,Technology,293000,Delhi
+273,2018-05-27,2018,Consumer Internet,12000000,Mumbai
+274,2018-05-28,2018,Health and wellness,200000,Mumbai
+275,2018-05-29,2018,Consumer Internet,1500000,Gurugram
+276,2018-05-29,2018,Technology,8000000,Bengaluru
+278,2018-05-30,2018,Technology,14000000,Bengaluru
+279,2018-05-31,2018,Consumer Internet,1300000,Hyderabad
+280,2018-02-04,2018,Consumer Internet,2000000,Mumbai
+281,2018-02-04,2018,Technology,307600,Coimbatore
+284,2018-04-04,2018,Finance,55000000,Bengaluru
+285,2018-05-04,2018,E-commerce,150000,Hyderabad
+286,2018-05-04,2018,E-commerce,10000000,Bengaluru
+287,2018-09-04,2018,Finance,2800000,Chennai
+288,2018-09-04,2018,Consumer Internet,1000000,Mumbai
+292,2018-10-04,2018,Consumer Internet,12000000,Gurugram
+293,2018-12-04,2018,Health and wellness,1000000,Delhi
+294,2018-12-04,2018,Finance,4600000,Gurugram
+295,2018-04-13,2018,Finance,2000000,Mumbai
+296,2018-04-16,2018,Consumer Internet,500000,Delhi
+298,2018-04-18,2018,Consumer Internet,22000000,Mumbai
+301,2018-04-19,2018,Technology,1100000,Bengaluru
+302,2018-04-19,2018,Technology,23000000,Gurugram
+304,2018-04-22,2018,Health and wellness,1900000,Mumbai
+305,2018-04-22,2018,Consumer Internet,11000000,Mumbai
+307,2018-04-23,2018,Finance,22000000,Bengaluru
+308,2018-04-25,2018,Consumer Internet,246000,Delhi
+309,2018-04-26,2018,Technology,5500000,Delhi
+311,2018-04-27,2018,Consumer Internet,10000000,Gurugram
+313,2018-04-30,2018,Consumer Internet,7500000,Mumbai
+314,2018-04-30,2018,Finance,978000,Gurgaon
+316,2018-01-03,2018,Consumer Internet,3000000,Noida
+317,2018-01-03,2018,E-commerce,12000000,Bengaluru
+318,2018-03-03,2018,Consumer Internet,250000,Bengaluru
+319,2018-04-03,2018,Technology,1000000,Indore
+320,2018-05-03,2018,Health and wellness,2100000,Mumbai
+321,2018-05-03,2018,Health and wellness,10000000,Bengaluru
+322,2018-05-03,2018,Consumer Internet,6000000,Jaipur
+323,2018-05-03,2018,Technology,5000000,Noida
+324,2018-04-03,2018,Consumer Internet,1100000,Pune
+325,2018-06-03,2018,Technology,9700000,Chennai
+326,2018-06-03,2018,Consumer Internet,7600000,Mumbai
+327,2018-08-03,2018,Consumer Internet,38400000,Mumbai
+328,2018-08-03,2018,Consumer Internet,1000000,Gurugram
+329,2018-12-03,2018,Consumer Internet,1000000,Mumbai
+330,2018-03-13,2018,Technology,82000000,Mumbai
+332,2018-03-14,2018,Consumer Internet,17200000,Bengaluru
+333,2018-03-15,2018,Consumer Internet,62000000,Gurugram
+334,2018-03-19,2018,Consumer Internet,1310000,Mumbai
+335,2018-03-19,2018,Health and wellness,500000,Udaipur
+336,2018-03-19,2018,Food & Beverage,3000000,Gurugram
+337,2018-03-19,2018,Technology,1000000,Gurugram
+340,2018-03-22,2018,Technology,18000000,Chennai
+341,2018-03-22,2018,Consumer Internet,768000,Noida
+342,2018-03-22,2018,Technology,1240000,Bengaluru
+344,2018-03-26,2018,Consumer Internet,1000000,Delhi
+346,2018-03-28,2018,Finance,2000000,Bengaluru
+347,2018-03-27,2018,Others,535000,Delhi
+348,2018-03-27,2018,Technology,3000000,Bengaluru
+350,2018-01-02,2018,Consumer Internet,300000000,Bengaluru
+351,2018-01-02,2018,Food & Beverage,200000000,Gurugram
+352,2018-05-02,2018,Transportation,4300000,Bengaluru
+353,2018-05-02,2018,Health and wellness,21000000,Faridabad
+354,2018-05-02,2018,Consumer Internet,2000000,Gurugram
+356,2018-06-02,2018,Health and wellness,3100000,Bengaluru
+357,2018-07-02,2018,Food & Beverage,100000000,Bengaluru
+358,2018-08-02,2018,Health and wellness,100000000,Pune
+359,2018-08-02,2018,Consumer Internet,50000000,Pune
+360,2018-09-02,2018,Health and wellness,12000000,Bengaluru
+362,2018-09-02,2018,Consumer Internet,6830000,Bengaluru
+364,2018-12-02,2018,Finance,87000000,Bengaluru
+366,2018-12-02,2018,E-commerce,935089,Gurugram
+367,2018-02-13,2018,Food & Beverage,311200,Mumbai
+369,2018-02-13,2018,E-commerce,13500000,Bengaluru
+370,2018-02-14,2018,E-commerce,3000000,Chennai
+371,2018-02-14,2018,E-commerce,100000,Mumbai
+372,2018-02-14,2018,E-commerce,500000,Mumbai
+373,2018-02-14,2018,Technology,5000000,Mumbai
+374,2018-02-15,2018,Consumer Internet,148434,Gurugram
+375,2018-02-15,2018,E-commerce,6230000,Ahemadabad
+376,2018-02-16,2018,Finance,250000,Bengaluru
+377,2018-02-16,2018,Finance,150000,Mumbai
+378,2018-02-19,2018,Finance,3800000,Gurugram
+379,2018-02-20,2018,Agriculture,500000,Mumbai
+380,2018-02-21,2018,E-commerce,50000000,Bengaluru
+381,2018-02-21,2018,Information Technology,20000000,Bengaluru
+382,2018-02-21,2018,Health and wellness,2100000,Gurugram
+384,2018-02-26,2018,E-commerce,772500,Delhi
+385,2018-02-26,2018,Technology,1040000,Chennai
+387,2018-02-27,2018,Technology,250000,Mumbai
+388,2018-02-28,2018,Technology,115000000,Gurugram
+389,2018-02-28,2018,Information Technology,1400000,Bengaluru
+392,2018-04-01,2018,Finance,15700000,Pune
+395,2018-09-01,2018,Finance,4700000,Ahmedabad
+397,2018-10-01,2018,Technology,1930000,Bengaluru
+398,2018-10-01,2018,E-commerce,18840000,Delhi
+399,2018-10-01,2018,Finance,23500000,Chennai
+400,2018-10-01,2018,Technology,36230000,Surat
+401,2018-12-01,2018,Technology,80000,Gurgaon
+402,2018-12-01,2018,Technology,20000000,Bengaluru
+403,2018-01-15,2018,Technology,354600,Bengaluru
+404,2018-01-15,2018,Finance,25000000,Bengaluru
+405,2018-01-15,2018,Technology,20000000,New Delhi
+406,2018-01-17,2018,Technology,1000000,Pune
+407,2018-01-18,2018,Technology,18200000,Bengaluru
+408,2018-01-22,2018,Technology,400000,Chennai
+409,2018-01-22,2018,Consumer Internet,2500000,Bengaluru
+411,2018-01-22,2018,Finance,4000000,Chennai
+412,2018-01-22,2018,Technology,3200000,Bengaluru
+413,2018-01-23,2018,E-commerce,3000000,Gurugram
+414,2018-01-24,2018,Finance,47000000,Mumbai
+415,2018-01-24,2018,Education,8600000,Mumbai
+416,2018-01-24,2018,Finance,6240000,Gurugram
+418,2018-01-25,2018,Technology,1000000,Mumbai
+419,2018-01-26,2018,Health and wellness,7400000,Bengaluru
+420,2018-01-29,2018,Health and wellness,1500000,Hyderabad
+421,2018-01-29,2018,Consumer Internet,1000000,Mumbai
+422,2018-01-30,2018,Health and wellness,1000000,Gurugram
+423,2018-01-30,2018,Technology,50000000,Mumbai
+424,2018-01-30,2018,Technology,500000,Bengaluru
+425,2018-01-30,2018,Technology,7600000,Mumbai
+426,2018-01-30,2018,Health and wellness,10000000,Bengaluru
+427,2018-01-31,2018,Technology,4400000,Bengaluru
+429,2017-05-12,2017,Technology,12300000,Bengaluru
+430,2017-05-12,2017,Real Estate,23000000,Mumbai
+431,2017-05-12,2017,Technology,1000000,Goa
+432,2017-05-12,2017,Technology,500000,Gurgaon
+433,2017-06-12,2017,Technology,60000000,Mumbai
+434,2017-06-12,2017,Technology,7000000,Chennai
+435,2017-07-12,2017,Technology,10000000,Mumbai
+436,2017-07-12,2017,E-commerce,3100000,Mumbai
+437,2017-07-12,2017,Health and wellness,750000,Gurgaon
+438,2017-07-12,2017,E-commerce,2300000,Chennai
+439,2017-08-12,2017,Technology,5000000,Noida
+440,2017-11-12,2017,E-commerce,1500000,Delhi
+441,2017-11-12,2017,Technology,50000,Mumbai
+442,2017-11-12,2017,Technology,50000,Bengaluru
+443,2017-11-12,2017,Technology,1200000,Bengaluru
+444,2017-12-12,2017,Technology,1800000,Delhi
+446,2017-12-12,2017,Technology,17500000,Hyderabad
+447,2017-12-12,2017,E-commerce,233000,Gurgaon
+448,2017-12-13,2017,Technology,27000000,Pune
+449,2017-12-13,2017,Technology,27000000,Mumbai
+450,2017-12-13,2017,Technology,7200000,Bengaluru
+452,2017-12-14,2017,E-commerce,7000000,Bengaluru
+453,2017-12-14,2017,Technology,6000000,Bengaluru
+454,2017-12-14,2017,Technology,250000,Gurgaon
+455,2017-12-14,2017,E-commerce,10000000,Bengaluru
+457,2017-12-15,2017,E-commerce,537000,Mumbai
+460,2017-12-19,2017,Technology,9500000,Bengaluru
+462,2017-12-19,2017,Technology,1500000,Delhi
+463,2017-12-20,2017,Technology,1000000,Bengaluru
+464,2017-12-20,2017,Finance,19500000,Hyderabad
+465,2017-12-21,2017,Technology,4000000,Mumbai
+466,2017-12-21,2017,E-commerce,150000,Bengaluru
+468,2017-12-26,2017,E-commerce,10000000,Chennai
+470,2017-12-27,2017,Technology,3800000,Hyderabad
+471,2017-02-11,2017,Finance,570000,New Delhi
+474,2017-03-11,2017,Technology,1000000,Bengaluru
+476,2017-03-11,2017,Technology,500000,Bengaluru
+477,2017-04-11,2017,Technology,1000000,Bengaluru
+481,2017-07-11,2017,Technology,5000000,Mumbai
+482,2017-07-11,2017,Technology,5000000,Bengaluru
+483,2017-08-11,2017,Technology,7600000,Bengaluru
+484,2017-08-11,2017,Finance,3000000,Bengaluru
+485,2017-08-11,2017,E-commerce,3000000,Mumbai
+486,2017-08-11,2017,Technology,3600000,Bengaluru
+487,2017-09-11,2017,Technology,872000,Delhi
+490,2017-10-11,2017,Technology,25000000,Bengaluru
+492,2017-11-13,2017,E-commerce,15000000,Mumbai
+494,2017-11-14,2017,Technology,8250000,Bengaluru
+495,2017-11-15,2017,Technology,900000,Bengaluru
+497,2017-11-15,2017,Technology,3000000,Delhi
+500,2017-11-17,2017,Investment,200000,Hyderabad
+502,2017-11-20,2017,Technology,692000,Mumbai
+503,2017-11-21,2017,Technology,329230,Hyderabad
+504,2017-11-21,2017,Technology,2700000,Mumbai
+505,2017-11-21,2017,Technology,400000,Mumbai
+506,2017-11-21,2017,Technology,250000,Mumbai
+507,2017-11-21,2017,Health and wellness,26000000,Bengaluru
+509,2017-11-21,2017,Finance,200000000,Mumbai
+512,2017-11-24,2017,Finance,10000000,Bengaluru
+513,2017-11-24,2017,Technology,250000,Goa
+514,2017-11-27,2017,Finance,270000000,Mumbai
+515,2017-11-27,2017,Technology,39000,Mumbai
+516,2017-11-27,2017,Technology,3800000,Mumbai
+517,2017-11-28,2017,Lifestyle,13000000,Bengaluru
+518,2017-11-28,2017,Technology,1500000,Chennai
+519,2017-11-28,2017,Health and wellness,1350000,Goa
+520,2017-11-28,2017,Technology,2000000,Delhi
+523,2017-03-10,2017,Consumer Internet,110000000,Bengaluru
+525,2017-04-10,2017,Consumer Internet,306000,Bengaluru
+526,2017-04-10,2017,Consumer Internet,38700000,Bengaluru
+527,2017-05-10,2017,Consumer Internet,1000000,New Delhi
+528,2017-05-10,2017,Technology,450000,Mumbai
+529,2017-05-10,2017,E-commerce,9200000,Bengaluru
+530,2017-06-10,2017,E-commerce,3100000,New Delhi
+531,2017-06-10,2017,Technology,8000000,Bengaluru
+532,2017-06-10,2017,Consumer Internet,10000000,Bengaluru
+533,2017-06-10,2017,Consumer Internet,2000000,Bengaluru
+535,2017-09-10,2017,E-commerce,2700000,Bengaluru
+538,2017-09-10,2017,Technology,336000,New Delhi
+540,2017-10-10,2017,Technology,1400000,Gurgaon
+541,2017-10-10,2017,Consumer Internet,4500000,Gurgaon
+542,2017-11-10,2017,E-commerce,3100000,Bengaluru
+543,2017-11-10,2017,Logistics,1100000,Hyderabad
+544,2017-12-10,2017,Technology,235000,Hyderabad
+545,2017-10-13,2017,Consumer Internet,77000000,Gurgaon
+546,2017-10-13,2017,Consumer Internet,250000,Bengaluru
+547,2017-10-13,2017,E-commerce,2000000,Gurgaon
+548,2017-10-16,2017,Consumer Internet,8000000,Bengaluru
+549,2017-10-16,2017,Consumer Internet,9200000,New Delhi
+550,2017-10-17,2017,Consumer Internet,7000000,Bengaluru
+551,2017-10-18,2017,Consumer Internet,7000000,Chennai
+553,2017-10-18,2017,Logistics,7700000,Bengaluru
+554,2017-10-18,2017,Consumer Internet,500000,Mumbai
+555,2017-10-23,2017,Consumer Internet,7000000,Mumbai
+556,2017-10-23,2017,Food & Beverage,6000000,Mumbai
+557,2017-10-23,2017,Consumer Internet,3100000,Mumbai
+558,2017-10-23,2017,Consumer Internet,118000,Kolkata
+560,2017-10-24,2017,Food & Beverage,500000,Mumbai
+561,2017-10-24,2017,Consumer Internet,3000000,New Delhi
+562,2017-10-24,2017,Consumer Internet,722000,Bengaluru
+565,2017-10-25,2017,Consumer Internet,550000,Gurgaon
+566,2017-10-26,2017,E-commerce,5000000,Bengaluru
+567,2017-10-27,2017,Technology,3800000,Gurgaon
+569,2017-10-28,2017,Technology,120000,New Delhi
+570,2017-10-28,2017,Consumer Internet,7700000,Bengaluru
+571,2017-10-30,2017,Food & Beverage,2000000,Coimbatore
+572,2017-10-31,2017,E-commerce,14000000,Chennai
+573,2017-10-31,2017,Finance,32000000,Mumbai
+574,2017-01-09,2017,E-commerce,1000000,Chennai
+575,2017-01-09,2017,Consumer Internet,1500000,Bengaluru
+576,2017-01-09,2017,Consumer Internet,1300000,Mumbai
+577,2017-04-09,2017,Technology,5600000,Pune
+578,2017-05-09,2017,Consumer Internet,1500000,Bengaluru
+579,2017-05-09,2017,Technology,600000,Gurgaon
+580,2017-06-09,2017,Consumer Internet,10750000,Ahmedabad
+581,2017-06-09,2017,Consumer Internet,10000000,New Delhi
+582,2017-06-09,2017,Health and wellness,6000000,Bengaluru
+583,2017-06-09,2017,E-commerce,26000000,Gurgaon
+584,2017-07-09,2017,Consumer Internet,5000000,Mumbai
+586,2017-07-09,2017,Consumer Internet,250000000,Gurgaon
+587,2017-07-09,2017,Consumer Internet,780000,Pune
+589,2017-07-09,2017,E-commerce,1000000,Pune
+590,2017-08-09,2017,Consumer Internet,6900000,New Delhi
+592,2017-11-09,2017,Logistics,30000000,New Delhi
+593,2017-11-09,2017,Consumer Internet,6200000,Hyderabad
+595,2017-12-09,2017,Consumer Internet,100000,New Delhi
+596,2017-12-09,2017,Technology,17000000,Bengaluru
+597,2017-12-09,2017,Consumer Internet,3000000,New Delhi
+599,2017-09-13,2017,Consumer Internet,2000000,Bengaluru
+600,2017-09-13,2017,Consumer Internet,10000000,Gurgaon
+601,2017-09-13,2017,Consumer Internet,11500000,Mumbai
+602,2017-09-13,2017,Technology,780000,Chennai
+604,2017-09-14,2017,Technology,44000000,Mumbai
+605,2017-09-14,2017,Consumer Internet,120000,Bengaluru
+607,2017-09-18,2017,E-commerce,1000000,Gurgaon
+609,2017-09-19,2017,Technology,50000000,Hyderabad
+611,2017-09-21,2017,Finance,6000000,Gaya
+614,2017-09-21,2017,E-commerce,1000000,Bengaluru
+615,2017-09-22,2017,E-commerce,15400000,Gurgaon
+618,2017-09-25,2017,Technology,6000000,Bengaluru
+621,2017-09-25,2017,Consumer Internet,422000,Bengaluru
+622,2017-09-25,2017,Consumer Internet,150000,Mumbai
+626,2017-09-27,2017,Technology,1600000,Mumbai
+628,2017-09-27,2017,Consumer Internet,1000000,Bengaluru
+630,2017-09-27,2017,Consumer Internet,300000,New Delhi
+631,2017-09-28,2017,Technology,1000000,Bengaluru
+632,2017-01-08,2017,Technology,1300000,Bengaluru
+635,2017-02-08,2017,Consumer Internet,500000,Mumbai
+636,2017-02-08,2017,Consumer Internet,850000,Hyderabad
+637,2017-03-08,2017,Logistics,300000,Mumbai
+645,2017-08-08,2017,Technology,243000,Chennai
+646,2017-08-08,2017,Consumer Internet,220000,New Delhi
+647,2017-09-08,2017,Logistics,3100000,New Delhi
+648,2017-09-08,2017,Technology,783000,Gurgaon
+651,2017-11-08,2017,E-commerce,2500000000,Bengaluru
+653,2017-11-08,2017,Consumer Internet,36000000,Gurgaon
+655,2017-08-14,2017,Technology,312000,Mumbai
+656,2017-08-15,2017,Consumer Internet,385000,Bengaluru
+658,2017-08-20,2017,E-commerce,187000,New Delhi
+659,2017-08-21,2017,Technology,6800000,Chennai
+660,2017-08-21,2017,Consumer Internet,734000,Vadodara
+664,2017-08-23,2017,Technology,80000000,Pune
+665,2017-08-23,2017,E-commerce,2300000,New Delhi
+667,2017-08-23,2017,Technology,500000,Bengaluru
+668,2017-08-24,2017,Technology,16000000,Bengaluru
+669,2017-08-25,2017,Consumer Internet,750000,Chennai
+670,2017-08-25,2017,Consumer Internet,125000,Bengaluru
+671,2017-08-28,2017,Technology,7000000,Pune
+672,2017-08-29,2017,Consumer Internet,25000000,Bengaluru
+673,2017-08-29,2017,Technology,750000,Mumbai
+675,2017-08-30,2017,Consumer Internet,34000000,Bengaluru
+676,2017-08-30,2017,Technology,30000000,Bengaluru
+677,2017-01-07,2017,Consumer Internet,1000000,Bengaluru
+678,2017-03-07,2017,Technology,2600000,Ahmedabad
+679,2017-04-07,2017,E-commerce,20000000,Gurgaon
+680,2017-05-07,2017,E-commerce,8500000,Bengaluru
+681,2017-05-07,2017,E-commerce,12000000,Noida
+682,2017-05-07,2017,Consumer Internet,1000000,Mumbai
+685,2017-07-07,2017,Consumer Internet,1000000,Bengaluru
+687,2017-10-07,2017,Technology,3000000,Hyderabad
+688,2017-11-07,2017,Consumer Internet,2250000,Pune
+689,2017-11-07,2017,Consumer Internet,464000,Mumbai
+691,2017-12-07,2017,Technology,18500000,Bengaluru
+695,2017-07-14,2017,Technology,540000,Bengaluru
+696,2017-07-14,2017,E-commerce,1700000,Bengaluru
+697,2017-07-17,2017,Technology,2000000,Bengaluru
+698,2017-07-17,2017,Technology,4000000,Pune
+703,2017-07-19,2017,Consumer Internet,10000000,Bengaluru
+705,2017-07-19,2017,Technology,600000,Bengaluru
+706,2017-07-20,2017,Technology,700000,Gurgaon
+707,2017-07-21,2017,E-commerce,200000,Gurgaon
+711,2017-07-25,2017,Consumer Internet,1200000,Bengaluru
+712,2017-07-25,2017,Consumer Internet,35000000,Bengaluru
+714,2017-07-26,2017,Consumer Internet,25000000,New Delhi
+715,2017-07-26,2017,Consumer Internet,200000,Bengaluru
+716,2017-07-27,2017,E-commerce,15000000,Gurgaon
+718,2017-07-28,2017,Consumer Internet,1250000,Mumbai
+721,2017-02-06,2017,E-commerce,234000,Bengaluru
+722,2017-05-06,2017,Consumer Internet,50000000,Mumbai
+724,2017-06-06,2017,E-commerce,1000000,Gurgaon
+727,2017-06-06,2017,Consumer Internet,1200000,Bengaluru
+728,2017-06-06,2017,Consumer Internet,1000000,New Delhi
+731,2017-07-06,2017,Consumer Internet,650000,New Delhi
+732,2017-07-06,2017,Consumer Internet,600000,Mumbai
+733,2017-08-06,2017,Consumer Internet,232000,Hyderabad
+734,2017-08-06,2017,Technology,1500000,Hyderabad
+735,2017-08-06,2017,Technology,1500000,Bengaluru
+736,2017-08-06,2017,Consumer Internet,350000,Bengaluru
+737,2017-09-06,2017,Consumer Internet,300000,Mumbai
+738,2017-09-06,2017,Consumer Internet,250000,Hyderabad
+740,2017-12-06,2017,Consumer Internet,7800000,Ahmedabad
+741,2017-12-06,2017,Technology,500000,Bengaluru
+742,2017-12-06,2017,Health and wellness,1000000,New Delhi
+743,2017-12-06,2017,Consumer Internet,776000,Mumbai
+744,2017-12-06,2017,Consumer Internet,15000000,Mumbai
+746,2017-06-13,2017,Technology,5500000,Bengaluru
+748,2017-06-14,2017,Consumer Internet,50000000,Bengaluru
+750,2017-06-14,2017,Consumer Internet,500000,Noida
+751,2017-06-15,2017,Consumer Internet,12300000,Bengaluru
+752,2017-06-16,2017,E-commerce,1000000,Bengaluru
+753,2017-06-16,2017,Consumer Internet,100000,Mumbai
+754,2017-06-16,2017,Technology,2000000,Noida
+758,2017-06-19,2017,Technology,12500000,Bengaluru
+759,2017-06-19,2017,Technology,4000000,Hyderabad
+760,2017-06-20,2017,Consumer Internet,300000,Bengaluru
+761,2017-06-20,2017,Consumer Internet,5200000,Mumbai
+762,2017-06-21,2017,E-commerce,2400000,Mumbai
+763,2017-06-21,2017,Consumer Internet,4500000,Bengaluru
+764,2017-06-21,2017,Technology,215000,Hyderabad
+765,2017-06-21,2017,Technology,31000000,Mumbai
+767,2017-06-22,2017,Technology,4600000,Bengaluru
+768,2017-06-22,2017,Consumer Internet,2000000,Mumbai
+769,2017-06-22,2017,Consumer Internet,500000,Bengaluru
+770,2017-06-23,2017,Consumer Internet,4000000,Mumbai
+771,2017-06-23,2017,Consumer Internet,1000000,Mumbai
+772,2017-06-26,2017,Technology,5000000,Hyderabad
+773,2017-06-26,2017,E-commerce,71000000,Bengaluru
+774,2017-06-26,2017,Consumer Internet,4000000,Noida
+775,2017-06-27,2017,Consumer Internet,5000000,New Delhi
+777,2017-06-27,2017,E-commerce,311000,Pune
+779,2017-06-28,2017,Consumer Internet,3000000,Mumbai
+780,2017-06-28,2017,Consumer Internet,2000000,Bengaluru
+781,2017-06-29,2017,Consumer Internet,1000000,New Delhi
+783,2017-06-30,2017,Technology,5000000,Bengaluru
+784,2017-06-30,2017,Consumer Internet,21000000,Gurgaon
+785,2017-01-05,2017,Consumer Internet,73700000,Hyderabad
+786,2017-01-05,2017,E-commerce,10000000,Gurgaon
+787,2017-02-05,2017,Technology,1500000,Hyderabad
+788,2017-02-05,2017,Logistics,10000000,Bengaluru
+790,2017-02-05,2017,Consumer Internet,390000,Bengaluru
+791,2017-03-05,2017,Consumer Internet,104500000,Bengaluru
+792,2017-03-05,2017,Technology,1000000,Bengaluru
+798,2017-05-05,2017,Consumer Internet,233000,Bengaluru
+799,2017-08-05,2017,E-commerce,700000,Gurgaon
+802,2017-08-05,2017,Food & Beverage,1000000,New Delhi
+803,2017-08-05,2017,Technology,5000000,Bengaluru
+804,2017-08-05,2017,Technology,3200000,Bengaluru
+805,2017-09-05,2017,Technology,50000,New Delhi
+810,2017-10-05,2017,Consumer Internet,1400000,Noida
+811,2017-10-05,2017,E-commerce,7700000,Gurgaon
+812,2017-10-05,2017,Consumer Internet,600000,Bengaluru
+814,2017-11-05,2017,Consumer Internet,4000000,Pune
+817,2017-12-05,2017,Consumer Internet,5000000,New Delhi
+819,2017-12-05,2017,Consumer Internet,466000,Mumbai
+820,2017-12-05,2017,E-commerce,1000000,Bengaluru
+821,2017-05-15,2017,Technology,500000,Bengaluru
+824,2017-05-16,2017,Technology,3000000,Mumbai
+825,2017-05-16,2017,E-commerce,500000,Mumbai
+826,2017-05-17,2017,Consumer Internet,250000,Chennai
+827,2017-05-17,2017,Consumer Internet,5300000,Mumbai
+828,2017-05-18,2017,E-commerce,1000000,Mumbai
+830,2017-05-18,2017,E-commerce,1400000000,Bengaluru
+831,2017-05-19,2017,Consumer Internet,1000000,Bengaluru
+834,2017-05-22,2017,Logistics,30000000,New Delhi
+835,2017-05-22,2017,Consumer Internet,500000,Mumbai
+837,2017-05-23,2017,Consumer Internet,6600000,Gurgaon
+839,2017-05-23,2017,Consumer Internet,1000000,Mumbai
+840,2017-05-24,2017,Consumer Internet,580000,Mumbai
+841,2017-05-25,2017,Finance,8000000,Gurgaon
+846,2017-05-29,2017,E-commerce,3500000,Mumbai
+849,2017-05-30,2017,Consumer Internet,1500000,Mumbai
+850,2017-05-30,2017,Consumer Internet,80000000,Bengaluru
+851,2017-05-31,2017,E-commerce,5000000,Kolkata
+852,2017-05-31,2017,Consumer Internet,7000000,Gurgaon
+853,2017-01-04,2017,Consumer Internet,3800000,Mumbai
+854,2017-03-04,2017,Education,8200000,Mumbai
+856,2017-03-04,2017,Health and wellness,40000000,Noida
+859,2017-04-04,2017,Food & Beverage,2700000,Chennai
+860,2017-04-04,2017,Technology,6100000,Bengaluru
+861,2017-04-04,2017,Technology,3690000,Bengaluru
+862,2017-04-04,2017,Technology,7000000,Pune
+863,2017-04-04,2017,Consumer Internet,500000,Ahmedabad
+864,2017-04-04,2017,Consumer Internet,500000,New Delhi
+866,2017-05-04,2017,Consumer Internet,3000000,Mumbai
+868,2017-06-04,2017,Health and wellness,21000000,Bengaluru
+869,2017-06-04,2017,Consumer Internet,5000000,Bengaluru
+873,2017-07-04,2017,E-commerce,18000000,Mumbai
+875,2017-08-04,2017,Consumer Internet,4600000,Gurgaon
+876,2017-10-04,2017,Technology,150000,Bengaluru
+877,2017-10-04,2017,Consumer Internet,2300000,Bengaluru
+878,2017-11-04,2017,E-commerce,5500000,Bengaluru
+879,2017-11-04,2017,Technology,100000,Bengaluru
+881,2017-12-04,2017,E-commerce,4000000,New Delhi
+882,2017-12-04,2017,Logistics,4500000,Mumbai
+883,2017-12-04,2017,Consumer Internet,4500000,Bengaluru
+884,2017-12-04,2017,Technology,2100000,Noida
+888,2017-04-13,2017,Consumer Internet,7700000,Gurgaon
+889,2017-04-14,2017,Consumer Internet,260000000,Bengaluru
+890,2017-04-15,2017,Consumer Internet,310000,Jaipur
+891,2017-04-17,2017,Consumer Internet,1500000,Gurgaon
+894,2017-04-17,2017,Food & Beverage,175000,Mumbai
+895,2017-04-17,2017,Consumer Internet,620000,New Delhi
+897,2017-04-17,2017,Consumer Internet,4650000,Ahmedabad
+898,2017-04-18,2017,Technology,2000000,New Delhi
+899,2017-04-18,2017,Technology,600000,Bengaluru
+900,2017-04-18,2017,Technology,1250000,Bengaluru
+901,2017-04-19,2017,Technology,155000,New Delhi
+902,2017-04-20,2017,Consumer Internet,3000000,Mumbai
+904,2017-04-21,2017,Consumer Internet,1000000,Bengaluru
+905,2017-04-24,2017,Food & Beverage,6300000,Pune
+906,2017-04-24,2017,Consumer Internet,250000000,Gurgaon
+907,2017-04-24,2017,Consumer Internet,3200000,Mumbai
+909,2017-04-25,2017,Consumer Internet,245000,Gurgaon
+910,2017-04-25,2017,Consumer Internet,3100000,Gurgaon
+911,2017-04-26,2017,Consumer Internet,20000000,Mumbai
+913,2017-04-26,2017,Technology,11000000,Mumbai
+914,2017-04-26,2017,Consumer Internet,1500000,Chennai
+915,2017-04-26,2017,E-commerce,1000000,New Delhi
+917,2017-04-27,2017,Consumer Internet,3600000,Mumbai
+920,2017-04-27,2017,Consumer Internet,1500000,Bengaluru
+921,2017-04-28,2017,Consumer Internet,750000,New Delhi
+924,2017-01-03,2017,Consumer Internet,330000000,Bengaluru
+925,2017-01-03,2017,Consumer Internet,10000000,Bengaluru
+928,2017-02-03,2017,Consumer Internet,1500000,Hyderabad
+929,2017-02-03,2017,Technology,500000,Chennai
+930,2017-02-03,2017,Consumer Internet,2500000,Gurgaon
+932,2017-02-03,2017,Consumer Internet,7600000,Chennai
+934,2017-03-03,2017,Technology,275000,Bengaluru
+936,2017-03-03,2017,Technology,6700000,Ahmedabad
+938,2017-03-03,2017,E-commerce,200000000,Bengaluru
+939,2017-04-03,2017,Health and wellness,19500000,Mumbai
+940,2017-06-03,2017,Consumer Internet,1200000,Mumbai
+941,2017-06-03,2017,Consumer Internet,150000,Gurgaon
+942,2017-06-03,2017,Consumer Internet,1790000,Mumbai
+943,2017-07-03,2017,Technology,10000000,Pune
+944,2017-07-03,2017,Technology,10000000,Bengaluru
+945,2017-07-03,2017,Technology,1000000,Noida
+946,2017-07-03,2017,Consumer Internet,30000,New Delhi
+947,2017-07-03,2017,Consumer Internet,3650000,Bengaluru
+948,2017-08-03,2017,Logistics,15000000,Gurgaon
+949,2017-08-03,2017,Technology,1100000,Chennai
+950,2017-08-03,2017,Consumer Internet,120000,Mumbai
+952,2017-09-03,2017,Consumer Internet,500000,Bengaluru
+953,2017-09-03,2017,Consumer Internet,4500000,Mumbai
+954,2017-10-03,2017,Health and wellness,443000,New Delhi
+956,2017-10-03,2017,Technology,600000,Bengaluru
+959,2017-03-15,2017,E-commerce,3350000,Hyderabad
+960,2017-03-15,2017,Consumer Internet,100000,Kolkata
+961,2017-03-16,2017,Consumer Internet,1350000,Mumbai
+963,2017-03-16,2017,Consumer Internet,3100000,New Delhi
+964,2017-03-16,2017,Consumer Internet,200000,Gurgaon
+966,2017-03-21,2017,E-commerce,1400000000,Bengaluru
+967,2017-03-21,2017,Technology,3670000,Mumbai
+968,2017-03-21,2017,Consumer Internet,5300000,Mumbai
+970,2017-03-22,2017,Consumer Internet,191000,Bengaluru
+971,2017-03-23,2017,Consumer Internet,15000000,Gurgaon
+972,2017-03-23,2017,Technology,56000000,Pune
+973,2017-03-24,2017,Technology,382000,Bengaluru
+975,2017-03-24,2017,Technology,100000000,New Delhi
+977,2017-03-28,2017,E-commerce,500000,Mumbai
+979,2017-03-28,2017,Consumer Internet,300000,Gurgaon
+981,2017-03-29,2017,Consumer Internet,325000,Mumbai
+982,2017-03-29,2017,E-commerce,650000,Bengaluru
+984,2017-03-29,2017,E-commerce,10000000,Bengaluru
+985,2017-03-29,2017,Consumer Internet,50000,Bengaluru
+989,2017-03-31,2017,Consumer Internet,155000,Mumbai
+990,2017-03-31,2017,Technology,3000000,Mumbai
+991,2017-03-31,2017,E-commerce,7000000,Bengaluru
+994,2017-03-31,2017,Technology,25000000,Pune
+997,2017-06-02,2017,Consumer Internet,2500000,Bengaluru
+999,2017-07-02,2017,Consumer Internet,450000,Mumbai
+1000,2017-07-02,2017,Consumer Internet,10000000,Noida
+1001,2017-08-02,2017,Consumer Internet,1000000,Bengaluru
+1002,2017-08-02,2017,Technology,1200000,Gurgaon
+1003,2017-08-02,2017,Consumer Internet,55000000,Mumbai
+1005,2017-08-02,2017,Consumer Internet,40000,Gurgaon
+1006,2017-09-02,2017,E-commerce,6000000,Bengaluru
+1008,2017-09-02,2017,E-commerce,8000000,Bengaluru
+1009,2017-10-02,2017,E-commerce,500000,Bengaluru
+1011,2017-02-13,2017,Technology,5800000,Bengaluru
+1012,2017-02-13,2017,Technology,7500000,Bengaluru
+1013,2017-02-13,2017,Consumer Internet,3200000,Chennai
+1014,2017-02-13,2017,Consumer Internet,15000000,Gurgaon
+1015,2017-02-13,2017,Consumer Internet,330000,New Delhi
+1016,2017-02-13,2017,Technology,400000,Bengaluru
+1017,2017-02-14,2017,Consumer Internet,300000,Chennai
+1018,2017-02-14,2017,Consumer Internet,22400000,Mumbai
+1021,2017-02-15,2017,Consumer Internet,6500000,Bengaluru
+1022,2017-02-15,2017,Technology,350000,Missourie
+1023,2017-02-16,2017,Consumer Internet,3000000,Mumbai
+1024,2017-02-16,2017,Consumer Internet,3000000,Bengaluru
+1025,2017-02-17,2017,Technology,500000,Hyderabad
+1026,2017-02-17,2017,Consumer Internet,400000,Bengaluru
+1027,2017-02-17,2017,E-commerce,15200000,Bengaluru
+1030,2017-02-17,2017,E-commerce,40000,Mumbai
+1031,2017-02-18,2017,Consumer Internet,40000,Gurgaon
+1032,2017-02-20,2017,E-commerce,38700000,Bengaluru
+1033,2017-02-21,2017,Consumer Internet,15000000,Gurgaon
+1034,2017-02-22,2017,Consumer Internet,40000,Bengaluru
+1035,2017-02-23,2017,Consumer Internet,1100000,New Delhi
+1039,2017-02-27,2017,Consumer Internet,375000,Gurgaon
+1040,2017-02-27,2017,E-commerce,94000,Bengaluru
+1041,2017-02-28,2017,Consumer Internet,1000000,New Delhi
+1042,2017-02-28,2017,Logistics,70000000,Bengaluru
+1043,2017-02-01,2017,Consumer Internet,366000,Pune
+1044,2017-03-01,2017,Technology,825000,Panaji
+1050,2017-06-01,2017,Logistics,13000000,Mumbai
+1051,2017-07-01,2017,Consumer Internet,57000000,Mumbai
+1052,2017-09-01,2017,Consumer Internet,35000000,Chennai
+1053,2017-10-01,2017,Technology,800000,Mumbai
+1054,2017-10-01,2017,Technology,5000000,Mumbai
+1055,2017-10-01,2017,Consumer Internet,2250000,Gurgaon
+1057,2017-10-01,2017,Consumer Internet,100000,Bengaluru
+1058,2017-10-01,2017,E-commerce,3500000,Bengaluru
+1060,2017-12-01,2017,Consumer Internet,1350000,Bengaluru
+1061,2017-12-01,2017,Consumer Internet,10000000,Gurgaon
+1062,2017-01-13,2017,Technology,4100000,Mumbai
+1064,2017-01-13,2017,Consumer Internet,440000,Bengaluru
+1065,2017-01-14,2017,Consumer Internet,4500000,Bengaluru
+1068,2017-01-16,2017,Consumer Internet,5000000,Bengaluru
+1070,2017-01-16,2017,Consumer Internet,700000,Mumbai
+1071,2017-01-17,2017,Consumer Internet,800000,Bengaluru
+1072,2017-01-17,2017,Consumer Internet,2000000,Bengaluru
+1073,2017-01-17,2017,Consumer Internet,55000000,Bengaluru
+1074,2017-01-17,2017,Consumer Internet,441000,New Delhi
+1075,2017-01-17,2017,Consumer Internet,500000,Gwalior
+1076,2017-01-17,2017,Consumer Internet,147000,Bengaluru
+1079,2017-01-18,2017,E-commerce,650000,New Delhi
+1080,2017-01-18,2017,Technology,300000,Bengaluru
+1082,2017-01-19,2017,Consumer Internet,1000000,Mumbai
+1089,2017-01-22,2017,Consumer Internet,50000,New Delhi
+1092,2017-01-23,2017,Technology,15000000,New Delhi
+1095,2017-01-24,2017,Consumer Internet,500000,Bengaluru
+1096,2017-01-24,2017,Consumer Internet,10000000,Hyderabad
+1097,2017-01-24,2017,Consumer Internet,4000000,Bengaluru
+1100,2017-01-25,2017,Technology,4000000,Pune
+1102,2017-01-25,2017,Technology,2200000,Bengaluru
+1103,2017-01-25,2017,E-commerce,8800000,Ahmedabad
+1105,2017-01-26,2017,Consumer Internet,1400000,Ahmedabad
+1106,2017-01-26,2017,Consumer Internet,300000,Chennai
+1108,2017-01-30,2017,Technology,106000,Mumbai
+1109,2017-01-30,2017,Technology,22500,New Delhi
+1110,2017-01-30,2017,E-commerce,68000,Mumbai
+1111,2017-01-30,2017,Consumer Internet,18000,Bengaluru
+1113,2017-01-31,2017,E-commerce,2000000,New Delhi
+1115,2016-01-12,2016,Technology,1200000,Noida
+1116,2016-01-12,2016,Consumer Internet,4000000,New Delhi
+1117,2016-01-12,2016,Consumer Internet,3600000,New Delhi
+1118,2016-02-12,2016,Consumer Internet,100000,New Delhi
+1120,2016-02-12,2016,Technology,3000000,Mumbai
+1122,2016-05-12,2016,E-commerce,1400000,Bengaluru
+1124,2016-06-12,2016,Consumer Internet,147000,New Delhi
+1130,2016-07-12,2016,Consumer Internet,9000000,New Delhi
+1131,2016-07-12,2016,Consumer Internet,440000,Bengaluru
+1133,2016-08-12,2016,Consumer Internet,6500000,Mumbai
+1134,2016-08-12,2016,Consumer Internet,250000,Gurgaon
+1135,2016-09-12,2016,E-commerce,6000000,New Delhi
+1137,2016-09-12,2016,Technology,450000,Bengaluru
+1138,2016-09-12,2016,Technology,250000,Jaipur
+1139,2016-12-12,2016,Technology,10000000,Bengaluru
+1140,2016-12-12,2016,Consumer Internet,200000,New Delhi
+1141,2016-12-12,2016,Consumer Internet,2000000,Gurgaon
+1143,2016-12-12,2016,Food & Beverage,2000000,New Delhi
+1144,2016-12-13,2016,Consumer Internet,10000000,Gurgaon
+1146,2016-12-13,2016,E-commerce,11100000,Gurgaon
+1148,2016-12-14,2016,Consumer Internet,150000,Gurgaon
+1149,2016-12-14,2016,Consumer Internet,1000000,New Delhi
+1152,2016-12-14,2016,Consumer Internet,297000,Indore
+1153,2016-12-15,2016,Consumer Internet,100000,Pune
+1154,2016-12-15,2016,Technology,10000000,Mumbai
+1155,2016-12-15,2016,Technology,35000000,Mumbai
+1156,2016-12-15,2016,Technology,3000000,Mumbai
+1157,2016-12-16,2016,Technology,23000000,Hyderabad
+1158,2016-12-16,2016,Consumer Internet,123000,New Delhi
+1160,2016-12-19,2016,Consumer Internet,7400000,Bengaluru
+1161,2016-12-20,2016,E-commerce,50000,Mumbai
+1164,2016-12-20,2016,Consumer Internet,15000000,Bengaluru
+1166,2016-12-21,2016,Consumer Internet,500000,Bengaluru
+1168,2016-12-21,2016,E-commerce,162000,Chennai
+1170,2016-12-22,2016,Consumer Internet,324000,New Delhi
+1171,2016-12-22,2016,E-commerce,300000,Bengaluru
+1172,2016-12-23,2016,Technology,2000000,Bengaluru
+1179,2016-12-26,2016,Consumer Internet,1200000,Mumbai
+1180,2016-12-26,2016,Logistics,10000000,Gurgaon
+1181,2016-12-27,2016,E-commerce,5000000,Bengaluru
+1183,2016-12-29,2016,Consumer Internet,1000000,Bengaluru
+1187,2016-01-11,2016,Consumer Internet,200000,New Delhi
+1188,2016-02-11,2016,Consumer Internet,55000000,Chennai
+1189,2016-02-11,2016,Consumer Internet,150000,Bengaluru
+1192,2016-03-11,2016,Technology,6000000,Chennai
+1194,2016-03-11,2016,Consumer Internet,10000000,Noida
+1196,2016-04-11,2016,Logistics,1000000,Bengaluru
+1197,2016-04-11,2016,Technology,150000,New Delhi
+1200,2016-05-11,2016,E-commerce,45000,New Delhi
+1201,2016-05-11,2016,E-commerce,3000000,Mumbai
+1202,2016-07-11,2016,Technology,75000000,Gurgaon
+1203,2016-07-11,2016,Consumer Internet,3000000,Mumbai
+1204,2016-09-11,2016,Consumer Internet,2000000,New Delhi
+1205,2016-09-11,2016,Consumer Internet,12000000,Gurgaon
+1206,2016-10-11,2016,Consumer Internet,1000000,New Delhi
+1210,2016-11-14,2016,Technology,3000000,Singapore
+1211,2016-11-14,2016,Technology,2000000,Pune
+1213,2016-11-15,2016,E-commerce,6000000,Bengaluru
+1214,2016-11-15,2016,Technology,4000000,Bengaluru
+1215,2016-11-16,2016,Technology,5000000,Bengaluru
+1217,2016-11-17,2016,E-commerce,13500000,New Delhi
+1220,2016-11-17,2016,Consumer Internet,147000,Mumbai
+1221,2016-11-18,2016,Finance,1000000,New Delhi
+1224,2016-11-21,2016,Consumer Internet,90000,Gurgaon
+1225,2016-11-21,2016,Technology,650000,Gurgaon
+1226,2016-11-22,2016,Consumer Internet,5000000,Mumbai
+1227,2016-11-22,2016,Consumer Internet,147000,Bengaluru
+1229,2016-11-22,2016,Technology,5000000,Bengaluru
+1231,2016-11-22,2016,Consumer Internet,147000,Mumbai
+1232,2016-11-23,2016,Consumer Internet,20000000,Bengaluru
+1233,2016-11-23,2016,Technology,600000,Mumbai
+1234,2016-11-23,2016,E-commerce,10000000,Bengaluru
+1237,2016-11-24,2016,Consumer Internet,4000000,Mumbai
+1244,2016-11-28,2016,Consumer Internet,100000,Bengaluru
+1245,2016-11-28,2016,E-commerce,2000000,Jaipur
+1247,2016-11-29,2016,Consumer Internet,3000000,New Delhi
+1248,2016-11-30,2016,Consumer Internet,1000000,Goa
+1249,2016-11-30,2016,E-commerce,963000,Bengaluru
+1250,2016-11-30,2016,E-commerce,150000,Bengaluru
+1251,2016-11-30,2016,Technology,200000,Bengaluru
+1252,2016-11-30,2016,Technology,2000000,Bengaluru
+1253,2016-11-30,2016,Food & Beverage,218000,Noida
+1254,2016-11-30,2016,Technology,100000,Pune
+1255,2016-11-30,2016,Consumer Internet,440000,Vadodara
+1256,2016-11-30,2016,Consumer Internet,500000,Bengaluru
+1258,2016-11-30,2016,Consumer Internet,500000,Mumbai
+1260,2016-03-10,2016,Consumer Internet,5000000,Bengaluru
+1262,2016-03-10,2016,Technology,2000000,Chennai
+1263,2016-03-10,2016,E-commerce,200000,Gurgaon
+1264,2016-04-10,2016,E-commerce,450000,Bengaluru
+1267,2016-04-10,2016,E-commerce,2000000,Noida
+1268,2016-04-10,2016,E-commerce,4200000,Noida
+1269,2016-04-10,2016,Consumer Internet,3000000,Hyderabad
+1271,2016-04-10,2016,Consumer Internet,1000000,Mumbai
+1272,2016-04-10,2016,Consumer Internet,2500000,Gurgaon
+1273,2016-04-10,2016,Consumer Internet,3750000,Mumbai
+1277,2016-05-10,2016,Technology,1200000,Mumbai
+1279,2016-06-10,2016,Technology,300000,Noida
+1281,2016-06-10,2016,E-commerce,1050000,Bengaluru
+1282,2016-07-10,2016,Technology,100000,Bengaluru
+1283,2016-07-10,2016,Technology,2200000,Mumbai
+1284,2016-07-10,2016,Consumer Internet,15000000,Mumbai
+1286,2016-10-10,2016,E-commerce,375000,New Delhi
+1287,2016-11-10,2016,Consumer Internet,50000000,Bengaluru
+1288,2016-11-10,2016,Consumer Internet,500000,Gurgaon
+1290,2016-10-13,2016,E-commerce,2000000,Noida
+1293,2016-10-13,2016,Technology,450000,Ahmedabad
+1294,2016-10-14,2016,Consumer Internet,25000,New Delhi
+1295,2016-10-14,2016,Consumer Internet,7000000,Bengaluru
+1296,2016-10-14,2016,Finance,6000000,Hyderabad
+1300,2016-10-15,2016,Consumer Internet,25000000,Bengaluru
+1301,2016-10-15,2016,Consumer Internet,227000,Hyderabad
+1302,2016-10-15,2016,Consumer Internet,1000000,Mumbai
+1305,2016-10-17,2016,Consumer Internet,300000,Gurgaon
+1306,2016-10-17,2016,Others,16000000,Mumbai
+1307,2016-10-18,2016,Technology,150000,New Delhi
+1310,2016-10-18,2016,Technology,2500000,Noida
+1312,2016-10-19,2016,Consumer Internet,30000000,Bengaluru
+1313,2016-10-19,2016,Consumer Internet,1100000,Bengaluru
+1314,2016-10-19,2016,Technology,750000,Mumbai
+1318,2016-10-21,2016,Consumer Internet,300000,Mumbai
+1320,2016-10-24,2016,Consumer Internet,3000000,Gurgaon
+1321,2016-10-24,2016,Consumer Internet,7500000,Mumbai
+1322,2016-10-25,2016,E-commerce,6000000,Bengaluru
+1323,2016-10-25,2016,Consumer Internet,500000,Mumbai
+1326,2016-10-25,2016,Technology,100000,Gurgaon
+1327,2016-10-26,2016,Consumer Internet,1000000,New Delhi
+1329,2016-10-26,2016,E-commerce,1000000,Ahmedabad
+1330,2016-10-27,2016,Consumer Internet,700000,Bengaluru
+1331,2016-10-27,2016,Technology,971000,Chennai
+1332,2016-10-27,2016,Technology,27000000,Bengaluru
+1334,2016-10-29,2016,Technology,100000,New Delhi
+1335,2016-10-29,2016,Technology,100000,Chennai
+1336,2016-10-29,2016,Technology,100000,Bengaluru
+1337,2016-10-30,2016,Technology,750000,Bengaluru
+1338,2016-10-31,2016,Consumer Internet,1000000,Mumbai
+1340,2016-01-09,2016,Technology,6700000,Kolkata
+1346,2016-06-09,2016,E-commerce,1350000,Chennai
+1347,2016-06-09,2016,Consumer Internet,500000,Mumbai
+1349,2016-06-09,2016,Consumer Internet,900000,Mumbai
+1350,2016-07-09,2016,E-commerce,8000000,Bengaluru
+1351,2016-07-09,2016,Consumer Internet,500000,New Delhi
+1352,2016-07-09,2016,Education,6000000,Bengaluru
+1353,2016-07-09,2016,E-commerce,315000,Gurgaon
+1354,2016-08-09,2016,Education,670000,Bengaluru
+1355,2016-08-09,2016,E-commerce,200000,Bengaluru
+1356,2016-09-09,2016,Education,50000000,Bengaluru
+1359,2016-10-09,2016,Consumer Internet,150000,New Delhi
+1360,2016-10-09,2016,Consumer Internet,450000,Noida
+1362,2016-12-09,2016,Consumer Internet,448000,Mumbai
+1363,2016-12-09,2016,Technology,3000000,Pune
+1364,2016-12-09,2016,E-commerce,12300000,Mumbai
+1365,2016-12-09,2016,Consumer Internet,300000,Noida
+1369,2016-09-13,2016,Consumer Internet,2500000,Gurgaon
+1371,2016-09-14,2016,Consumer Internet,150000,Bengaluru
+1373,2016-09-15,2016,Consumer Internet,200000,Gurgaon
+1374,2016-09-15,2016,E-commerce,5000000,Bengaluru
+1375,2016-09-15,2016,Consumer Internet,1500000,Bengaluru
+1376,2016-09-16,2016,Consumer Internet,100000,Hyderabad
+1377,2016-09-16,2016,Consumer Internet,1000000,Gurgaon
+1378,2016-09-19,2016,Consumer Internet,750000,Bengaluru
+1380,2016-09-19,2016,Consumer Internet,15000000,Bengaluru
+1382,2016-09-20,2016,E-commerce,500000,Hyderabad
+1384,2016-09-21,2016,Consumer Internet,1000000,Bengaluru
+1386,2016-09-21,2016,E-commerce,31300000,Mumbai
+1387,2016-09-21,2016,E-commerce,298000,Ahmedabad
+1388,2016-09-21,2016,Consumer Internet,350000,New Delhi
+1389,2016-09-22,2016,Consumer Internet,6000000,New Delhi
+1391,2016-09-22,2016,Technology,425000,Bengaluru
+1392,2016-09-22,2016,Technology,1000000,Bengaluru
+1393,2016-09-22,2016,Technology,745000,Pune
+1394,2016-09-23,2016,Technology,6000000,Chennai
+1400,2016-09-27,2016,Consumer Internet,1580000,Bengaluru
+1402,2016-09-28,2016,E-commerce,500000,Ahmedabad
+1403,2016-09-28,2016,Consumer Internet,1000000,Indore
+1404,2016-09-28,2016,Consumer Internet,1000000,Hyderabad
+1405,2016-09-28,2016,Technology,51000000,Pune
+1406,2016-09-29,2016,E-commerce,180000,New Delhi
+1408,2016-09-29,2016,Consumer Internet,1500000,Bengaluru
+1410,2016-09-30,2016,Technology,19000000,Mumbai
+1412,2016-01-08,2016,E-commerce,12000000,Gurgaon
+1413,2016-01-08,2016,Consumer Internet,200000,Bengaluru
+1414,2016-01-08,2016,Consumer Internet,275000,Pune
+1415,2016-01-08,2016,E-commerce,3000000,Bengaluru
+1416,2016-01-08,2016,Consumer Internet,2500000,Pune
+1417,2016-02-08,2016,Consumer Internet,1800000,Noida
+1419,2016-02-08,2016,Food & Beverage,1000000,Mumbai
+1421,2016-03-08,2016,Consumer Internet,225000,Gurgaon
+1422,2016-03-08,2016,Consumer Internet,890000,Mumbai
+1423,2016-04-08,2016,Consumer Internet,500000,Bengaluru
+1426,2016-06-08,2016,Technology,27000,Kerala
+1428,2016-08-08,2016,Others,40000,Mumbai
+1429,2016-08-08,2016,E-commerce,445000,Gurgaon
+1430,2016-08-08,2016,Consumer Internet,200000,Mumbai
+1433,2016-10-08,2016,Consumer Internet,500000,Bengaluru
+1434,2016-10-08,2016,E-commerce,600000,New Delhi
+1435,2016-11-08,2016,Consumer Internet,7000000,Bengaluru
+1437,2016-11-08,2016,Consumer Internet,209000,Mumbai
+1438,2016-11-08,2016,Technology,15000000,Hyderabad
+1439,2016-12-08,2016,Technology,1500000,Gurgaon
+1440,2016-12-08,2016,Consumer Internet,1500000,Gurgaon
+1441,2016-12-08,2016,Technology,15600000,Noida
+1442,2016-12-08,2016,Technology,500000,Gurgaon
+1446,2016-08-16,2016,Consumer Internet,62000000,New Delhi
+1447,2016-08-16,2016,Consumer Internet,175000000,New Delhi
+1448,2016-08-16,2016,E-commerce,500000,Mumbai
+1449,2016-08-16,2016,E-commerce,1500000,Ahmedabad
+1450,2016-08-16,2016,Technology,250000,Pune
+1452,2016-08-17,2016,Logistics,375000,Indore
+1454,2016-08-17,2016,Technology,675000,Bengaluru
+1458,2016-08-19,2016,Consumer Internet,20000000,Mumbai
+1459,2016-08-19,2016,Technology,375000,Bengaluru
+1462,2016-08-22,2016,Health and wellness,37000000,Mumbai
+1465,2016-08-23,2016,Consumer Internet,100000,New Delhi
+1467,2016-08-23,2016,Technology,200000,New Delhi
+1469,2016-08-24,2016,Consumer Internet,1000000,Bengaluru
+1470,2016-08-24,2016,Technology,100000,Chandigarh
+1471,2016-08-24,2016,E-commerce,500000,Bengaluru
+1473,2016-08-24,2016,E-commerce,500000,Mumbai
+1474,2016-08-24,2016,Education,900000,Noida
+1475,2016-08-24,2016,E-commerce,3000000,Mumbai
+1478,2016-08-25,2016,Health and wellness,3000000,Bengaluru
+1481,2016-08-25,2016,Consumer Internet,24000000,Bengaluru
+1482,2016-08-26,2016,Consumer Internet,500000,Gurgaon
+1483,2016-08-26,2016,Consumer Internet,40000000,Gurgaon
+1484,2016-08-26,2016,Consumer Internet,550000,Mumbai
+1486,2016-08-29,2016,Consumer Internet,3000000,Mumbai
+1487,2016-08-29,2016,Consumer Internet,7000000,Bengaluru
+1489,2016-08-29,2016,Consumer Internet,1000000,Chennai
+1490,2016-08-29,2016,Consumer Internet,15000000,Bengaluru
+1491,2016-08-30,2016,Technology,149000,Gurgaon
+1492,2016-08-30,2016,Consumer Internet,104000,New Delhi
+1493,2016-08-30,2016,E-commerce,60000000,Bengaluru
+1494,2016-08-30,2016,Technology,2000000,Bengaluru
+1495,2016-08-30,2016,Consumer Internet,3000000,Bengaluru
+1497,2016-08-31,2016,E-commerce,5300000,Mumbai
+1501,2016-01-07,2016,Consumer Internet,500000,Mumbai
+1503,2016-02-07,2016,Consumer Internet,700000,Bengaluru
+1505,2016-04-07,2016,Consumer Internet,15000000,Bengaluru
+1506,2016-04-07,2016,E-commerce,200000,Mumbai
+1507,2016-04-07,2016,Logistics,2000000,Mumbai
+1509,2016-04-07,2016,Finance,16000000,Mumbai
+1510,2016-05-07,2016,Consumer Internet,1000000,Gurgaon
+1511,2016-05-07,2016,Consumer Internet,82000000,Mumbai
+1512,2016-05-07,2016,E-commerce,1700000,Mumbai
+1513,2016-06-07,2016,E-commerce,740000,New Delhi
+1514,2016-06-07,2016,Technology,250000,Ahmedabad
+1515,2016-06-07,2016,Consumer Internet,297000,Chennai
+1516,2016-07-07,2016,Technology,2000000,Mumbai
+1517,2016-07-07,2016,Consumer Internet,1000000,New Delhi
+1521,2016-08-07,2016,Consumer Internet,1950000,Mumbai
+1522,2016-11-07,2016,E-commerce,6000000,Mumbai
+1523,2016-11-07,2016,Technology,3500000,Gurgaon
+1524,2016-11-07,2016,E-commerce,3000000,Gurgaon
+1525,2016-12-07,2016,Technology,12250000,Gurgaon
+1530,2016-07-13,2016,Consumer Internet,5000000,New Delhi
+1532,2016-07-13,2016,Consumer Internet,600000,Gurgaon
+1533,2016-07-13,2016,Consumer Internet,1350000,Bengaluru
+1535,2016-07-13,2016,Consumer Internet,5000000,Bengaluru
+1538,2016-07-14,2016,E-commerce,450000,Coimbatore
+1539,2016-07-14,2016,Technology,1070000,Pune
+1541,2016-07-15,2016,Technology,1000000,Pune
+1542,2016-07-15,2016,Consumer Internet,2000000,Bengaluru
+1544,2016-07-15,2016,E-commerce,250000,New Delhi
+1546,2016-07-15,2016,Consumer Internet,6000000,Mumbai
+1547,2016-07-18,2016,Consumer Internet,650000,Pune
+1548,2016-07-18,2016,Consumer Internet,650000,New Delhi
+1549,2016-07-18,2016,E-commerce,30000000,Mumbai
+1552,2016-07-19,2016,Technology,10000000,New Delhi
+1553,2016-07-19,2016,Consumer Internet,15000000,Noida
+1554,2016-07-19,2016,Technology,1000000,Bengaluru
+1555,2016-07-19,2016,Consumer Internet,250000,Gurgaon
+1556,2016-07-20,2016,Consumer Internet,1000000,Jaipur
+1557,2016-07-20,2016,Logistics,595000,Mumbai
+1559,2016-07-21,2016,Consumer Internet,1000000,New Delhi
+1561,2016-07-21,2016,Consumer Internet,595000,Bengaluru
+1567,2016-02-06,2016,Technology,1000000,Mumbai
+1569,2016-02-06,2016,Consumer Internet,1000000,Mumbai
+1571,2016-03-06,2016,Consumer Internet,75000,Chennai
+1572,2016-03-06,2016,Health and wellness,2000000,New Delhi
+1573,2016-06-06,2016,Consumer Internet,448000,Hyderabad
+1574,2016-07-06,2016,Education,4000000,Bengaluru
+1575,2016-07-06,2016,Consumer Internet,2000000,Bengaluru
+1576,2016-07-06,2016,Technology,100000,Bengaluru
+1577,2016-07-06,2016,Technology,23000000,Pune
+1578,2016-07-06,2016,Technology,1000000,Mumbai
+1579,2016-08-06,2016,Consumer Internet,1000000,Hyderabad
+1580,2016-08-06,2016,E-commerce,500000,Mumbai
+1581,2016-08-06,2016,Technology,200000,Mumbai
+1584,2016-08-06,2016,E-commerce,16000000,Bengaluru
+1586,2016-08-06,2016,Consumer Internet,200000,Gurgaon
+1589,2016-09-06,2016,Technology,2000000,Mumbai
+1591,2016-10-06,2016,Consumer Internet,500000,New Delhi
+1599,2016-06-13,2016,E-commerce,1000000,Mumbai
+1604,2016-06-14,2016,Technology,6000000,Bengaluru
+1605,2016-06-14,2016,Consumer Internet,1000000,Pune
+1606,2016-06-14,2016,Consumer Internet,4400000,Bengaluru
+1607,2016-06-15,2016,Consumer Internet,450000,Vadodara
+1609,2016-06-16,2016,Consumer Internet,450000,New Delhi
+1610,2016-06-16,2016,Consumer Internet,600000,Gurgaon
+1613,2016-06-16,2016,E-commerce,20000000,Bengaluru
+1615,2016-06-17,2016,Consumer Internet,12000000,New Delhi
+1616,2016-06-17,2016,Technology,900000,Bengaluru
+1617,2016-06-17,2016,Technology,5200000,Bengaluru
+1623,2016-06-21,2016,Consumer Internet,150000,Mumbai
+1627,2016-06-21,2016,Technology,400000,Bengaluru
+1628,2016-06-21,2016,Consumer Internet,225000,Mumbai
+1630,2016-06-21,2016,Technology,150000,Chennai
+1631,2016-06-21,2016,E-commerce,6000000,Mumbai
+1632,2016-06-22,2016,Consumer Internet,150000,Pune
+1633,2016-06-23,2016,Technology,3500000,New Delhi
+1634,2016-06-23,2016,Consumer Internet,210000,Bengaluru
+1637,2016-06-24,2016,Consumer Internet,50000,Mumbai
+1639,2016-06-24,2016,Technology,500000,Bengaluru
+1640,2016-06-24,2016,Logistics,6000000,Mumbai
+1641,2016-06-24,2016,Others,3000000,Mumbai
+1642,2016-06-24,2016,Others,148000,New Delhi
+1643,2016-06-27,2016,Consumer Internet,1200000,Bengaluru
+1644,2016-06-27,2016,Consumer Internet,100000,Bengaluru
+1646,2016-06-27,2016,Consumer Internet,3000000,Bengaluru
+1647,2016-06-28,2016,Consumer Internet,8000000,Gurgaon
+1648,2016-06-28,2016,Technology,300000,Ahmedabad
+1649,2016-06-28,2016,Consumer Internet,32000000,Ahmedabad
+1650,2016-06-28,2016,Consumer Internet,295000,New Delhi
+1653,2016-06-29,2016,E-commerce,100000,New Delhi
+1654,2016-06-29,2016,Technology,50000,Kolkata
+1656,2016-06-29,2016,E-commerce,1500000,Mumbai
+1657,2016-06-30,2016,Consumer Internet,25000000,Mumbai
+1658,2016-06-30,2016,Consumer Internet,220000,Bengaluru
+1660,2016-06-30,2016,Food & Beverage,368000,Gurgaon
+1662,2016-01-05,2016,Technology,376000,New Delhi
+1663,2016-01-05,2016,Consumer Internet,145000,Pune
+1665,2016-03-05,2016,Consumer Internet,50000000,Gurgaon
+1667,2016-03-05,2016,Consumer Internet,250000,Bengaluru
+1669,2016-03-05,2016,Consumer Internet,180000,Mumbai
+1671,2016-04-05,2016,Consumer Internet,200000,Mumbai
+1672,2016-04-05,2016,E-commerce,60000000,New Delhi
+1673,2016-04-05,2016,Technology,12000000,Mumbai
+1674,2016-04-05,2016,Technology,200000,Chennai
+1675,2016-04-05,2016,Technology,200000,Pune
+1676,2016-04-05,2016,E-commerce,150000,Hyderabad
+1677,2016-04-05,2016,Technology,500000,Singapore
+1678,2016-04-05,2016,Technology,500000,New Delhi
+1679,2016-04-05,2016,Consumer Internet,500000,Bengaluru
+1681,2016-05-05,2016,Consumer Internet,375000,Bengaluru
+1682,2016-06-05,2016,Education,1000000,Lucknow
+1684,2016-07-05,2016,Logistics,75000,Hyderabad
+1685,2016-09-05,2016,Technology,2750000,Bengaluru
+1686,2016-09-05,2016,Consumer Internet,450000,Bengaluru
+1687,2016-09-05,2016,E-commerce,250000,New Delhi
+1688,2016-10-05,2016,Consumer Internet,6000000,Bengaluru
+1689,2016-10-05,2016,Consumer Internet,1500000,Chennai
+1690,2016-10-05,2016,Technology,18000000,Chennai
+1691,2016-10-05,2016,E-commerce,1500000,Mumbai
+1692,2016-10-05,2016,Consumer Internet,7000000,Bengaluru
+1693,2016-11-05,2016,Consumer Internet,900000,Bengaluru
+1695,2016-11-05,2016,Technology,100000000,Mumbai
+1696,2016-12-05,2016,Consumer Internet,500000,Bengaluru
+1697,2016-12-05,2016,Consumer Internet,25000000,Bengaluru
+1698,2016-12-05,2016,Health and wellness,150000,Hyderabad
+1703,2016-05-13,2016,Consumer Internet,13500000,Chennai
+1704,2016-05-13,2016,Logistics,2200000,Mumbai
+1705,2016-05-16,2016,E-commerce,1000000,Delhi
+1710,2016-05-18,2016,Consumer Internet,250000,Bengaluru
+1711,2016-05-18,2016,Consumer Internet,100000,Trivandrum
+1713,2016-05-18,2016,Education,10000000,Mumbai
+1714,2016-05-18,2016,Others,1000000,Bengaluru
+1716,2016-05-19,2016,Consumer Internet,1000000,Mumbai
+1718,2016-05-19,2016,Consumer Internet,500000,New Delhi
+1719,2016-05-19,2016,Consumer Internet,500000,New Delhi
+1720,2016-05-20,2016,Consumer Internet,300000,Noida
+1722,2016-05-23,2016,Consumer Internet,89000,New Delhi
+1724,2016-05-24,2016,Consumer Internet,1000000,Bengaluru
+1726,2016-05-25,2016,Health and wellness,1500000,Bengaluru
+1727,2016-05-25,2016,Technology,100000,Pune
+1729,2016-05-26,2016,Consumer Internet,2000000,Bengaluru
+1731,2016-05-26,2016,Consumer Internet,475000,New Delhi
+1733,2016-05-30,2016,Technology,200000,Mumbai
+1735,2016-05-31,2016,E-commerce,4400000,New Delhi
+1736,2016-05-31,2016,Consumer Internet,8900000,Mumbai
+1739,2016-05-31,2016,Consumer Internet,175000,Mumbai
+1740,2016-01-04,2016,Consumer Internet,2700000,Bengaluru
+1745,2016-04-04,2016,Consumer Internet,25000000,Mumbai
+1750,2016-06-04,2016,Logistics,1000000,Gurgaon
+1751,2016-06-04,2016,Consumer Internet,500000,Bengaluru
+1752,2016-06-04,2016,Consumer Internet,6000000,Mumbai
+1753,2016-06-04,2016,Consumer Internet,1000000,Bengaluru
+1757,2016-08-04,2016,Consumer Internet,40000,New Delhi
+1758,2016-11-04,2016,Consumer Internet,200000,Mumbai
+1760,2016-11-04,2016,Consumer Internet,100000000,New Delhi
+1761,2016-11-04,2016,Consumer Internet,300000,Gurgaon
+1762,2016-12-04,2016,Consumer Internet,1000000,Bengaluru
+1766,2016-04-13,2016,Consumer Internet,1000000,New Delhi
+1767,2016-04-13,2016,Consumer Internet,150000,Pune
+1768,2016-04-13,2016,E-commerce,250000,Mumbai
+1769,2016-04-13,2016,E-commerce,750000,Bengaluru
+1771,2016-04-14,2016,Technology,100000,Mumbai
+1773,2016-04-15,2016,Consumer Internet,1000000,New Delhi
+1775,2016-04-15,2016,Consumer Internet,15000000,New Delhi
+1778,2016-04-15,2016,Consumer Internet,30000000,Bengaluru
+1779,2016-04-15,2016,Consumer Internet,150000,Bengaluru
+1784,2016-04-18,2016,Consumer Internet,10000000,Chandigarh
+1786,2016-04-19,2016,E-commerce,1500000,Noida
+1787,2016-04-19,2016,Consumer Internet,450000,Chennai
+1789,2016-04-19,2016,Consumer Internet,2000000,New Delhi
+1793,2016-04-20,2016,E-commerce,15000000,Gurgaon
+1800,2016-04-22,2016,E-commerce,3000000,Bengaluru
+1803,2016-04-22,2016,Consumer Internet,450000,New Delhi
+1804,2016-04-25,2016,Consumer Internet,200000,Hyderabad
+1806,2016-04-25,2016,Food & Beverage,550000,Bengaluru
+1807,2016-04-26,2016,Consumer Internet,15000000,Mumbai
+1808,2016-04-26,2016,Consumer Internet,1300000,Bengaluru
+1809,2016-04-26,2016,E-commerce,15000000,Gurgaon
+1810,2016-04-27,2016,Consumer Internet,500000,Gurgaon
+1813,2016-04-27,2016,Consumer Internet,450000,New Delhi
+1815,2016-04-28,2016,Consumer Internet,600000,Mumbai
+1816,2016-04-28,2016,Consumer Internet,1200000,Bengaluru
+1817,2016-04-29,2016,Consumer Internet,500000,Mumbai
+1818,2016-04-29,2016,E-commerce,100000,New Delhi
+1823,2016-02-03,2016,Consumer Internet,600000,Noida
+1825,2016-02-03,2016,Technology,1400000,Bengaluru
+1827,2016-03-03,2016,Education,1000000,Mumbai
+1828,2016-03-03,2016,Consumer Internet,500000,New Delhi
+1830,2016-04-03,2016,E-commerce,1000000,Chennai
+1832,2016-04-03,2016,Consumer Internet,150000,Kolkata
+1834,2016-04-03,2016,Consumer Internet,100000,Gurgaon
+1836,2016-04-03,2016,Health and wellness,4000000,Gurgaon
+1837,2016-07-03,2016,Consumer Internet,500000,Noida
+1838,2016-07-03,2016,E-commerce,3000000,Bengaluru
+1839,2016-07-03,2016,Consumer Internet,500000,Bengaluru
+1840,2016-07-03,2016,Consumer Internet,250000,New Delhi
+1842,2016-07-03,2016,Consumer Internet,100000,Bengaluru
+1846,2016-08-03,2016,Consumer Internet,750000,Bengaluru
+1847,2016-08-03,2016,E-commerce,8000000,New Delhi
+1848,2016-08-03,2016,Consumer Internet,650000,Bengaluru
+1850,2016-09-03,2016,Technology,500000,Noida
+1851,2016-09-03,2016,Real Estate,2500000,Bengaluru
+1852,2016-09-03,2016,Consumer Internet,1000000,Hyderabad
+1854,2016-09-03,2016,Consumer Internet,400000,Mumbai
+1856,2016-10-03,2016,Food & Beverage,11100000,New Delhi
+1858,2016-10-03,2016,Technology,15000000,Pune
+1859,2016-10-03,2016,E-commerce,1000000,New Delhi
+1861,2016-03-14,2016,E-commerce,223608,Bengaluru
+1862,2016-03-14,2016,Logistics,14900000,New Delhi
+1864,2016-03-15,2016,Consumer Internet,1000000,Bengaluru
+1865,2016-03-15,2016,Technology,150000,Pune
+1866,2016-03-15,2016,Consumer Internet,250000,Gurgaon
+1867,2016-03-16,2016,Consumer Internet,180000,Bengaluru
+1870,2016-03-16,2016,Consumer Internet,250000,Bengaluru
+1871,2016-03-17,2016,Health and wellness,200000,Noida
+1872,2016-03-17,2016,Consumer Internet,230000,Gurgaon
+1873,2016-03-17,2016,Consumer Internet,800000,Mumbai
+1874,2016-03-17,2016,Consumer Internet,108000,Mumbai
+1875,2016-03-18,2016,Food & Beverage,1500000,Hyderabad
+1876,2016-03-19,2016,Consumer Internet,30000,New Delhi
+1879,2016-03-21,2016,Consumer Internet,2000000,Gurgaon
+1880,2016-03-22,2016,Consumer Internet,75000000,Bengaluru
+1881,2016-03-22,2016,E-commerce,150000000,Bengaluru
+1882,2016-03-22,2016,Consumer Internet,600000,Bengaluru
+1885,2016-03-22,2016,Consumer Internet,360000,Hyderabad
+1887,2016-03-23,2016,Technology,100000,Hyderabad
+1888,2016-03-23,2016,Technology,300000,Chennai
+1890,2016-03-23,2016,Consumer Internet,330000,Hyderabad
+1892,2016-03-23,2016,Consumer Internet,500000,Bengaluru
+1893,2016-03-24,2016,Consumer Internet,150000,Gurgaon
+1894,2016-03-28,2016,E-commerce,300000,Noida
+1896,2016-03-29,2016,Consumer Internet,300000,New Delhi
+1897,2016-03-29,2016,Finance,4700000,Chennai
+1898,2016-03-29,2016,Consumer Internet,200000,New Delhi
+1899,2016-03-29,2016,Consumer Internet,500000,Chennai
+1901,2016-03-30,2016,Health and wellness,400000,Bengaluru
+1905,2016-02-02,2016,Technology,4000000,Pune
+1907,2016-02-02,2016,Consumer Internet,22500,Bengaluru
+1909,2016-02-02,2016,Technology,22500,Gurgaon
+1910,2016-02-02,2016,Technology,22500,Mumbai
+1911,2016-03-02,2016,Consumer Internet,1000000,Pune
+1912,2016-03-02,2016,E-commerce,100000,New Delhi
+1913,2016-03-02,2016,Consumer Internet,100000,Noida
+1914,2016-03-02,2016,Consumer Internet,30000,Bengaluru
+1915,2016-04-02,2016,E-commerce,30000,New Delhi
+1917,2016-05-02,2016,Technology,13500000,Bengaluru
+1921,2016-05-02,2016,E-commerce,1000000,Vadodara
+1922,2016-05-02,2016,Consumer Internet,81000,Pune
+1923,2016-05-02,2016,Consumer Internet,52000,Varanasi
+1924,2016-06-02,2016,E-commerce,1000000,New Delhi
+1927,2016-08-02,2016,Consumer Internet,100000,Gurgaon
+1928,2016-08-02,2016,Consumer Internet,100000,New Delhi
+1932,2016-08-02,2016,E-commerce,12500000,Pune
+1937,2016-10-02,2016,Consumer Internet,200000,Mumbai
+1939,2016-10-02,2016,Consumer Internet,1200000,Bengaluru
+1940,2016-10-02,2016,Technology,150000,Pune
+1945,2016-12-02,2016,Technology,125000,Bengaluru
+1946,2016-12-02,2016,Food & Beverage,1000000,New Delhi
+1947,2016-12-02,2016,Technology,1000000,Mumbai
+1948,2016-12-02,2016,Consumer Internet,4000000,Mumbai
+1949,2016-02-15,2016,Consumer Internet,5000000,Mumbai
+1950,2016-02-15,2016,E-commerce,200000000,New Delhi
+1953,2016-02-15,2016,Consumer Internet,50000,Gurgaon
+1954,2016-02-15,2016,Consumer Internet,300000,Bengaluru
+1955,2016-02-15,2016,Finance,500000,Bengaluru
+1957,2016-02-16,2016,Consumer Internet,1000000,Bengaluru
+1958,2016-02-16,2016,Technology,970000,Bengaluru
+1960,2016-02-16,2016,E-commerce,4000000,Pune
+1964,2016-02-17,2016,Technology,350000,New Delhi
+1966,2016-02-17,2016,Consumer Internet,10000000,Mumbai
+1967,2016-02-17,2016,Education,5000000,New Delhi
+1970,2016-02-18,2016,Consumer Internet,73000,Ahmedabad
+1973,2016-02-18,2016,E-commerce,300000,New Delhi
+1974,2016-02-18,2016,Technology,350000,Bengaluru
+1975,2016-02-19,2016,E-commerce,5000000,New Delhi
+1978,2016-02-19,2016,Consumer Internet,400000,Gurgaon
+1980,2016-02-22,2016,Consumer Internet,1000000,Bengaluru
+1981,2016-02-22,2016,Consumer Internet,3000000,New Delhi
+1982,2016-02-22,2016,Consumer Internet,100000,New Delhi
+1984,2016-02-22,2016,Consumer Internet,4500000,Mumbai
+1985,2016-02-22,2016,Consumer Internet,37000,New Delhi
+1987,2016-02-23,2016,Consumer Internet,11000000,Gurgaon
+1989,2016-02-24,2016,Consumer Internet,160000,Bengaluru
+1991,2016-02-24,2016,Consumer Internet,10000000,Bengaluru
+1992,2016-02-24,2016,Consumer Internet,400000,Hyderabad
+1993,2016-02-24,2016,Consumer Internet,150000,Noida
+1995,2016-02-25,2016,E-commerce,5000000,Gurgaon
+1997,2016-02-25,2016,Consumer Internet,5800000,Bengaluru
+1998,2016-02-25,2016,E-commerce,70000,New Delhi
+1999,2016-02-26,2016,Technology,145000,New Delhi
+2000,2016-02-26,2016,Consumer Internet,2500000,Mumbai
+2002,2016-02-29,2016,E-commerce,13000000,Mumbai
+2008,2016-04-01,2016,Food & Beverage,6000000,New Delhi
+2010,2016-05-01,2016,Education,100000,Bhopal
+2012,2016-05-01,2016,Consumer Internet,150000,Bengaluru
+2013,2016-05-01,2016,Consumer Internet,5000000,Mumbai
+2016,2016-06-01,2016,Technology,750000,Bengaluru
+2017,2016-06-01,2016,Consumer Internet,1000000,Ahmedabad
+2018,2016-06-01,2016,Health and wellness,150000,Pune
+2019,2016-06-01,2016,Education,3000000,Gurgaon
+2020,2016-06-01,2016,Education,750000,New Delhi
+2023,2016-07-01,2016,Consumer Internet,160000,Bengaluru
+2024,2016-07-01,2016,Education,100000,Jaipur
+2025,2016-07-01,2016,Consumer Internet,180000000,Gurgaon
+2026,2016-08-01,2016,E-commerce,5000000,Bengaluru
+2027,2016-08-01,2016,Consumer Internet,250000,Bengaluru
+2028,2016-08-01,2016,Education,45000,Mumbai
+2031,2016-11-01,2016,E-commerce,5400000,Gurgaon
+2033,2016-11-01,2016,Consumer Internet,16500000,Bengaluru
+2034,2016-11-01,2016,E-commerce,1000000,Bengaluru
+2036,2016-12-01,2016,E-commerce,100000000,Gurgaon
+2038,2016-12-01,2016,Technology,2300000,Bengaluru
+2039,2016-12-01,2016,Consumer Internet,250000,Mumbai
+2040,2016-01-13,2016,Consumer Internet,145000000,Mumbai
+2041,2016-01-13,2016,Consumer Internet,100000,Bengaluru
+2042,2016-01-13,2016,Consumer Internet,240000,New Delhi
+2044,2016-01-13,2016,Health and wellness,4000000,Mumbai
+2048,2016-01-14,2016,Consumer Internet,520000,Gurgaon
+2051,2016-01-15,2016,Consumer Internet,200000,Gurgaon
+2057,2016-01-18,2016,Consumer Internet,6000000,New Delhi
+2058,2016-01-19,2016,Consumer Internet,35000000,Bengaluru
+2062,2016-01-19,2016,E-commerce,1400000,New Delhi
+2063,2016-01-19,2016,Technology,5000000,Mumbai
+2064,2016-01-19,2016,Consumer Internet,445000,New Delhi
+2065,2016-01-19,2016,Finance,3500000,Chennai
+2067,2016-01-20,2016,E-commerce,1800000,New Delhi
+2068,2016-01-20,2016,E-commerce,20000000,Mumbai
+2069,2016-01-20,2016,E-commerce,4000000,New Delhi
+2070,2016-01-20,2016,Consumer Internet,40000,Mumbai
+2073,2016-01-21,2016,Consumer Internet,500000,Bengaluru
+2074,2016-01-21,2016,Consumer Internet,2200000,Noida
+2075,2016-01-21,2016,Consumer Internet,15000000,Mumbai
+2076,2016-01-21,2016,Technology,3000000,Bengaluru
+2077,2016-01-22,2016,Consumer Internet,200000,Kanpur
+2079,2016-01-22,2016,E-commerce,7200000,Bengaluru
+2082,2016-01-22,2016,Technology,515000,Bengaluru
+2083,2016-01-22,2016,Technology,35000000,Mumbai
+2084,2016-01-22,2016,Technology,30000000,Bengaluru
+2086,2016-01-25,2016,Consumer Internet,150000,Mumbai
+2087,2016-01-25,2016,Consumer Internet,21000000,Gurgaon
+2090,2016-01-27,2016,E-commerce,4000000,Gurgaon
+2091,2016-01-27,2016,Technology,1000000,Bengaluru
+2093,2016-01-28,2016,Technology,1000000,Hyderabad
+2094,2016-01-28,2016,Technology,370000,Mumbai
+2098,2016-01-29,2016,Consumer Internet,160000,Jodhpur
+2100,2016-01-29,2016,Consumer Internet,185000,Bengaluru
+2101,2016-01-29,2016,Consumer Internet,17000000,Bengaluru
+2102,2016-01-29,2016,E-commerce,5150000,Mumbai
+2103,2016-01-29,2016,Technology,1100000,New Delhi
